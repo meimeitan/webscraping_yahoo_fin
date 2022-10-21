@@ -12,5 +12,4 @@ This is a web scraping project via yahoo"https://uk.finance.yahoo.com/", on the 
 2. Use Yahoo_Fin open source packages to extract stock info
 3. Visualisation
 
-##
-olkit.
+
